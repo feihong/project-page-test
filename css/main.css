@@ -95,19 +95,39 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+a, a:visited {
+  text-decoration: underline;
+  color: #333;
+}
 
+a:hover {
+  color: steelblue;
+}
 
+body {
+  background-color: whitesmoke;
+}
 
+footer {
+  color: gray;
+  margin: 1.5rem 0;
+}
 
+footer .content {
+  font-size: 1rem;
+}
 
+main {
+  font-size: 1.3rem;
 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-
-
-
-
-
-
+article {
+  width: 48rem;
+}
 
 
 
