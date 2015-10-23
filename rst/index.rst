@@ -1,3 +1,7 @@
+---
+title: ReStructuredText Cheatsheet
+---
+
 .. This is a comment! It will show up in the rendered markup.
 
 Basics
